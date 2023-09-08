@@ -1,0 +1,6 @@
+plotly==5.16.1
+pymongo==4.5.0
+streamlit==1.26.0
+streamlit_option_menu==0.3.6
+streamlit-authenticator==0.2.3
+
