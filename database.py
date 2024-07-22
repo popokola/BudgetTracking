@@ -58,3 +58,5 @@ def update_period(period_key, new_incomes, new_expenses, new_comment):
 
     except Exception as err:
         return f"Error updating data: {str(err)}"
+
+
